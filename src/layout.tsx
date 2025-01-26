@@ -73,7 +73,7 @@ const DefaultNavigation: NavItem[] = [
 ];
 
 const DefaultHeader: HeaderProps = {
-  title: "Dashboard",
+  title: "Football Results",
   navigation: DefaultNavigation,
   showNotifications: true,
   showUserMenu: true,
@@ -86,7 +86,8 @@ const DefaultHeader: HeaderProps = {
 };
 
 const DefaultFooter: FooterProps = {
-  text: "© 2024 Your Company. All rights reserved.",
+  text: "
+  ",
   links: [
     { label: "Privacy", href: "/privacy" },
     { label: "Terms", href: "/terms" },
